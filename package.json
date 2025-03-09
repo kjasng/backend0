@@ -20,6 +20,8 @@
     "typescript": "^5.0.0"
   },
   "dependencies": {
-    "express": "^4.21.2"
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "pug": "^3.0.3"
   }
 }
